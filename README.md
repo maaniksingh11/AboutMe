@@ -40,7 +40,7 @@ Macy's, Whitehall, PA
 - Position consistently required outstanding customer service skills; basic financing skills were introduced when opening credit cards
 
 
-**Campus/Community Involvement
+**Campus/Community Involvement**
 
 - South Asian Student Association                                            August 2019 - present
   - Organization intended to promote South Asian culture
@@ -51,7 +51,7 @@ Macy's, Whitehall, PA
 - Recreational Tennis                                                        August 2019 - present
 
 
-**Technical Skills
+**Technical Skills**
 
 - Proficient in Microsoft Office (Word, Excel, PowerPint, etc.)
 - Proficient in Windows and MacOS software
