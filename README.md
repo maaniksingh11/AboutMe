@@ -1,7 +1,7 @@
-**Maanik Singh
+**Maanik Singh**
 
 
-**Education
+**Education**
 
 Lehigh University, Bethlehem, PA                                                        Graduation: May 2023
 
@@ -16,7 +16,7 @@ Coursework:
 - Business Analytics I (BIS 044)
 
 
-**Work Experience
+**Work Experience**
 
 *Helping Hands*                                                                         March 2019 – Present
 
@@ -40,7 +40,6 @@ Macy's, Whitehall, PA
 - Position consistently required outstanding customer service skills; basic financing skills were introduced when opening credit cards
 
 
-
 **Campus/Community Involvement
 
 - South Asian Student Association                                            August 2019 - present
@@ -50,6 +49,7 @@ Macy's, Whitehall, PA
   - give sales pitches to manage stocks using real money provided by the school
 
 - Recreational Tennis                                                        August 2019 - present
+
 
 **Technical Skills
 
